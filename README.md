@@ -1,2 +1,2 @@
-# first-repository-1
-primer repositorio de practica
+este proyecto es una prueba de como crear mi repositorio y clonarlo a git-hub
+
